@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import hoppu from './hoppu.jpg';
 import './App.css';
 
 function App() {
