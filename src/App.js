@@ -1,7 +1,7 @@
 import React from 'react';
 import { useState } from 'react'
-import hoppu from './hoppu.jpg';
-import hubert from './hubert.jpg';
+import hoppu from './dogs/hoppu.jpg';
+import hubert from './dogs/hubert.jpg';
 import './App.css';
 
 
@@ -34,6 +34,8 @@ function App() {
         </a>
       </header>
     </div>
+
+
   );
 }
 
