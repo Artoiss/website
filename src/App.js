@@ -1,11 +1,13 @@
 import React from 'react';
 import { useState } from 'react'
+import {BrowserRouter as Router, Route, Link, 
+  Redirect, withRouter} from 'react-router-dom'
 import hoppu from './dogs/hoppu.jpg';
 import hubert from './dogs/hubert.jpg';
 import './App.css';
 
 
-function App() {
+const App=() => {
   const dogs = [hoppu, hubert]
   const[selected, setSelected] = useState(Math.floor(Math.random() * dogs.length))
 
