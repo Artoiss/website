@@ -8,7 +8,7 @@ const Home=() => {
     <div >
       <header>
         <p>
-          Choose page
+          Hoppu Development in maintenance.
         </p>
       </header>
     </div>

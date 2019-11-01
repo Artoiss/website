@@ -20,11 +20,14 @@ const App=() => {
           <Link style={padding} to="/">dog</Link>
         </div>
         <Route exact path="/" render={() => <Home />} />
-        <Route path="/Dog" render={() => <Dog />} />
+        <Route path="/dog" render={() => <Dog />} />
 
       </div>
      </Router>
     </div>
+
+
+
 
 
   );
