@@ -8,7 +8,7 @@ const Home=() => {
     <div >
       <header>
         <p>
-          Hoppu Development in maintenance.
+          Press dog to see dogs.
         </p>
       </header>
     </div>

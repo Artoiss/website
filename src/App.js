@@ -17,7 +17,7 @@ const App=() => {
       <div>
         <div>
           <Link style={padding} to="/">home</Link>
-          <Link style={padding} to="/">dog</Link>
+          <Link style={padding} to="/dog">dog</Link>
         </div>
         <Route exact path="/" render={() => <Home />} />
         <Route path="/dog" render={() => <Dog />} />
