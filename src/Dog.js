@@ -6,6 +6,8 @@ import hoppu from './dogs/hoppu.jpg';
 import hubert from './dogs/hubert.jpg';
 import github from './icon/GitHub-Mark-Light-32px.png'
 import linkedin from './icon/LI-Logo.png'
+import so from './icon/so-icon.svg'
+
 
 const Dog=() => {
   const dogs = [hoppu, hubert]
@@ -31,6 +33,9 @@ const Dog=() => {
       </a>
       <a href="https://www.linkedin.com/in/arttu--heikura/" >
         <img className="Dog-footerLiIcon" src={linkedin} />
+      </a>
+      <a href="https://stackoverflow.com/users/11823822/artoiss" >
+        <img className="Dog-footerGitIcon" src={so} />
       </a>
       </footer>
     </div>
