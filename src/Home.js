@@ -1,17 +1,26 @@
 import React from 'react';
 import { useState } from 'react'
-
+import github from './icon/GitHub-Mark-Light-32px.png'
+import linkedin from './icon/LI-Logo.png'
 
 
 const Home=() => {
   return (
-    <div >
-      <header>
+    <div className="Home">
+      <header className="Home-header">
         <p>
-          Press dog to see dogs.
+          Hoppu Development under maintenance.
         </p>
       </header>
-    </div>
+      <footer className="Home-footer">
+      <a href="https://github.com/Artoiss/website" >
+        <img className="Home-footerGitIcon" src={github} />
+      </a>
+      <a href="https://github.com/Artoiss/website" >
+        <img className="Home-footerLiIcon" src={linkedin} />
+      </a>
+      </footer>
+  </div>
 
 
   );
