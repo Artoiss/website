@@ -16,7 +16,7 @@ const Home=() => {
       <a href="https://github.com/Artoiss/website" >
         <img className="Home-footerGitIcon" src={github} />
       </a>
-      <a href="https://github.com/Artoiss/website" >
+      <a href="https://www.linkedin.com/in/arttu--heikura/" >
         <img className="Home-footerLiIcon" src={linkedin} />
       </a>
       </footer>
