@@ -8,6 +8,7 @@ import Dog from './Dog'
 import Home from './Home'
 import './App.css';
 import Nav from './Nav';
+import Timer from './Timer'
 
 const App=() => {
   const padding = { padding: 6}
@@ -17,10 +18,9 @@ const App=() => {
 
       <div>
       <Nav />
-
         <Route exact path="/" render={() => <Home />} />
         <Route path="/dog" render={() => <Dog />} />
-
+        <Route path="/timer" render={() => <Timer />} />
       </div>
 
      </Router>
