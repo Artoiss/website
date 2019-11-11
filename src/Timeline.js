@@ -22,10 +22,10 @@ dateText=":D"
 
 style={{ color: '#ddd' }}
 >
-<h3>Planning phase</h3>
-<h4></h4>
+<h3>:D</h3>
+<h4>:D</h4>
 <p>
-  höhö
+  :D
 </p>
 </TimelineItem>
 <TimelineItem
@@ -39,10 +39,10 @@ bodyContainerStyle={{
   boxShadow: '0.5rem 0.5rem 2rem 0 rgba(0, 0, 0, 0.2)',
 }}
 >
-<h3 style={{ color: '#61b8ff' }}>-</h3>
-<h4 style={{ color: '#61b8ff' }}>-</h4>
+<h3 style={{ color: '#61b8ff' }}>:D</h3>
+<h4 style={{ color: '#61b8ff' }}>:D</h4>
 <p>
-  asdd
+  :D
 </p>
 </TimelineItem>
 <TimelineItem
@@ -61,10 +61,10 @@ dateComponent={(
   </div>
 )}
 >
-<h3>-</h3>
-<h4>-</h4>
+<h3>:D</h3>
+<h4>:D</h4>
 <p>
-  asd
+  :D
 </p>
 </TimelineItem>
 <TimelineItem
@@ -72,10 +72,10 @@ key="004"
 dateText=":D"
 dateInnerStyle={{ background: '#76bb7f' }}
 >
-<h3>-</h3>
-<h4>-</h4>
+<h3>:D</h3>
+<h4>:D</h4>
 <p>
-  asdasd
+  :D
 </p>
 </TimelineItem>
 </Timeline>
