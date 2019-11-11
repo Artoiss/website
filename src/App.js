@@ -9,6 +9,7 @@ import Home from './Home'
 import './App.css';
 import Nav from './Nav';
 import Timer from './Timer'
+import Timel from './Timeline'
 
 const App=() => {
   const padding = { padding: 6}
@@ -21,6 +22,7 @@ const App=() => {
         <Route exact path="/" render={() => <Home />} />
         <Route path="/dog" render={() => <Dog />} />
         <Route path="/timer" render={() => <Timer />} />
+        <Route path="/timel" render={() => <Timel/>} />
       </div>
 
      </Router>

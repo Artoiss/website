@@ -25,6 +25,9 @@ import {BrowserRouter as Router, Route, Link,
                 <li className="nav-item active">
                   <Link className="nav-link" to="/timer">Thesis Deadline</Link>
                 </li>
+                <li className="nav-item active">
+                  <Link className="nav-link" to="/timel">Timeline</Link>
+                </li>
               </ul>
             </div>
           </div>
