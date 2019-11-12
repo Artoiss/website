@@ -21,10 +21,10 @@ const App=() => {
 
       <div>
       <Nav />
-        <Route exact path="/" render={() => <Home />} />
-        <Route path="/dog" render={() => <Dog />} />
-        <Route path="/timer" render={() => <Timer />} />
-        <Route path="/timel" render={() => <Timel/>} />
+        <Route exact path="/" component={Home} />
+        <Route path="/dog" component={Dog} />
+        <Route path="/timer" component={Timer} />
+        <Route path="/timel" component={Timel} />
       </div>
 
      </Router>
