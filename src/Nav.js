@@ -32,6 +32,7 @@ import {BrowserRouter as Router, Route, Link,
             </div>
           </div>
         </nav>
+
       );
     }
   }

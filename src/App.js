@@ -12,10 +12,11 @@ import Timer from './Timer'
 import Timel from './Timeline'
 
 const App=() => {
+  const { createHashHistory } = History;
   const padding = { padding: 6}
   return (
     <div>
-     <Router>
+     <Router history={createHashHistory}>
 
       <div>
       <Nav />
