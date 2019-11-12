@@ -17,7 +17,7 @@ import {BrowserRouter as Router, Route, Link,
             <div className="navbar navbar-dark bg-dark">
               <ul className="navbar-nav">
                 <li className="nav-item active">
-                  <Link className="nav-link" to="">Home</Link>
+                  <Link className="nav-link" to="/">Home</Link>
                 </li>
                 <li className="nav-item active">
                   <Link className="nav-link" to="/dog">Dog</Link>
