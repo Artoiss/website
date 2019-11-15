@@ -23,7 +23,7 @@ import {BrowserRouter as Router, Route, Link,
                   <Link className="nav-link" to="/dog">Dog</Link>
                 </li>
                 <li className="nav-item active">
-                  <Link className="nav-link" to="/timer">Thesis Deadline</Link>
+                  <Link className="nav-link" to="/timer">Junction Deadline</Link>
                 </li>
                 <li className="nav-item active">
                   <Link className="nav-link" to="/timel">Timeline</Link>

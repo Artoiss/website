@@ -10,11 +10,11 @@ const Home=() => {
     <div className="Home">
       <header className="Dog-header">
         <p>
-          Thesis Deadline.
+          Junction Deadline
         </p>
       </header>
       <body className="Dog-body">
-          <DateCountdown dateTo='2020-03-31 00:00:00 GMT+0200'  />
+        <DateCountdown dateTo='2019-11-17 10:00:00 GMT+0200'  />
       </body>
       <footer className="Home-footer">
       <a href="https://github.com/Artoiss/website" >
