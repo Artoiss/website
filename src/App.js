@@ -11,13 +11,13 @@ import './App.css';
 import Nav from './Nav';
 import Timer from './Timer'
 import Timel from './Timeline'
-
+import { HashRouter } from "react-router-dom";
 
 const App=() => {
   const padding = { padding: 6}
   return (
     <div>
-     <Router>
+     <HashRouter>
 
       <div>
       <Nav />
@@ -27,7 +27,7 @@ const App=() => {
         <Route path="/timel" render={() => <Timel/>} />
       </div>
 
-     </Router>
+     </HashRouter>
     </div>
 
 
