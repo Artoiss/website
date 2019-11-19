@@ -4,7 +4,6 @@ import {BrowserRouter as Router, Route, Link,
   Redirect, withRouter} from 'react-router-dom'
 
 
-
   export default class Nav extends React.Component {
     render() {
       return (
@@ -12,7 +11,7 @@ import {BrowserRouter as Router, Route, Link,
           <div className="navbar-brand">
             <Link to="/" className="navbar-brand">
               <p>
-                Hoppu Development
+                <img src={require("./dogs/hoppu.png")} />
               </p>
             </Link>
 
