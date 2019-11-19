@@ -11,7 +11,7 @@ import {BrowserRouter as Router, Route, Link,
           <div className="navbar-brand">
             <Link to="/" className="navbar-brand">
               <p>
-                <img src={require("./dogs/hoppu.png")} />
+                <img src={require("./dogs/hoppu2.png")} />
               </p>
             </Link>
 
