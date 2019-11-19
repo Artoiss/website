@@ -10,7 +10,7 @@ const Home=() => {
     <div className="Home">
       <header className="Dog-header">
         <p>
-          Junction Deadline
+          Thesis Deadline
         </p>
       </header>
       <body className="Dog-body">
