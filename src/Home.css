@@ -38,3 +38,17 @@
   width: 32px;
   margin: 0 15px;
 }
+
+.rotate {
+  animation: rotation 5s infinite linear;
+}
+
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg) translate(-700px);
+  }
+  100% {
+    transform: rotate(359deg) translate(-700px);
+  }
+}
