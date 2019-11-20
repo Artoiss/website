@@ -8,7 +8,7 @@ const Home=() => {
   return (
     <div className="Home">
       <header className="Home-header">
-        <p> Hoppu Development under maintenance </p>
+        <img src={require("./dogs/hubert2.png")} class="rotate2" width="100" height="120" />
         <img src={require("./dogs/hubert2.png")} class="rotate" width="100" height="120" />
       </header>
       <footer className="Home-footer">
