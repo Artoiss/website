@@ -11,6 +11,7 @@ import './App.css';
 import Nav from './Nav';
 import Timer from './Timer'
 import Timel from './Timeline'
+import Drum from './Drum'
 import { HashRouter } from "react-router-dom";
 
 const App=() => {
@@ -25,6 +26,7 @@ const App=() => {
         <Route path="/dog" render={() => <Dog />} />
         <Route path="/timer" render={() => <Timer />} />
         <Route path="/timel" render={() => <Timel/>} />
+        <Route path="/drum" render={() => <Drum/>} />
       </div>
 
      </HashRouter>
