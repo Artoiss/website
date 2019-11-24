@@ -1,11 +1,11 @@
 import React from 'react';
-import { useState } from 'react'
 import github from './icon/GitHub-Mark-Light-32px.png'
 import linkedin from './icon/LI-Logo.png'
 import so from './icon/so-icon.svg'
 import Button from './components/button/Button'
 
 const Drum=() => {
+
 
 const handleClick = () => {
   console.log("test")
@@ -19,7 +19,7 @@ const handleClick = () => {
         </p>
       </header>
       <body className="Dog-body">
-        <Button  onClick={() => handleClick(false)}> </Button>
+        <Button  onClick={() => handleClick()}> </Button>
       </body>
       <footer className="Home-footer">
       <a href="https://github.com/Artoiss/website" >

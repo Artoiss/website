@@ -1,5 +1,4 @@
 import React from 'react';
-import { useState } from 'react'
 import {BrowserRouter as Router, Route, Link,
   Redirect, withRouter} from 'react-router-dom'
 import hoppu from './dogs/hoppu.jpg';

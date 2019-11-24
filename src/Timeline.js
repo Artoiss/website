@@ -1,5 +1,5 @@
 import React from 'react';
-import { useState } from 'react'
+
 import github from './icon/GitHub-Mark-Light-32px.png'
 import linkedin from './icon/LI-Logo.png'
 import so from './icon/so-icon.svg'
