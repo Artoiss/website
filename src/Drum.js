@@ -3,13 +3,14 @@ import github from './icon/GitHub-Mark-Light-32px.png'
 import linkedin from './icon/LI-Logo.png'
 import so from './icon/so-icon.svg'
 import Button from './components/button/Button'
+import snare from './audio/Tr-8_sample_snare.mp3'
+import Sound from 'react-sound'
 
 const Drum=() => {
-
-
-const handleClick = () => {
-  console.log("test")
-}
+  const audio = new Audio(snare)
+  const handleClick = (props) => (
+    audio.play()
+  )
 
   return (
     <div className="Home">
@@ -19,7 +20,7 @@ const handleClick = () => {
         </p>
       </header>
       <body className="Dog-body">
-        <Button  onClick={() => handleClick()}> </Button>
+        <button type="button" size="lg" onClick={() => handleClick(audio)}> Snare</button>
       </body>
       <footer className="Home-footer">
       <a href="https://github.com/Artoiss/website" >
