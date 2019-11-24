@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f269361309003db92a234e1a8fd768ee",
+    "revision": "195846b8f3bff09cabef244df2bbfdf5",
     "url": "/index.html"
   },
   {
-    "revision": "3eaf4e774876ba8a4a52",
+    "revision": "948cf0137cf72ca07649",
     "url": "/static/css/2.02d17e92.chunk.css"
   },
   {
-    "revision": "22f0b4cadf804e2218d5",
-    "url": "/static/css/main.356da1cc.chunk.css"
+    "revision": "c7be78168e84718f6bc9",
+    "url": "/static/css/main.a56a3a67.chunk.css"
   },
   {
-    "revision": "3eaf4e774876ba8a4a52",
-    "url": "/static/js/2.dd1ee3b5.chunk.js"
+    "revision": "948cf0137cf72ca07649",
+    "url": "/static/js/2.bc195a8e.chunk.js"
   },
   {
-    "revision": "22f0b4cadf804e2218d5",
-    "url": "/static/js/main.527daf3e.chunk.js"
+    "revision": "c7be78168e84718f6bc9",
+    "url": "/static/js/main.23fd9d46.chunk.js"
   },
   {
     "revision": "867559b179ea8c7af62a",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c24cde2827448f08d40afd6909011e16",
     "url": "/static/media/LI-Logo.c24cde28.png"
+  },
+  {
+    "revision": "a9562a69e4d557dfac20cfa0d0c84f9a",
+    "url": "/static/media/Tr-8_sample_snare.a9562a69.mp3"
   },
   {
     "revision": "634534078a22c9a53ca67faa88e51c36",
