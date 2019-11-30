@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "195846b8f3bff09cabef244df2bbfdf5",
+    "revision": "afb793df6ab55f15908f77e0515ce285",
     "url": "/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.02d17e92.chunk.css"
   },
   {
-    "revision": "c7be78168e84718f6bc9",
-    "url": "/static/css/main.a56a3a67.chunk.css"
+    "revision": "2f06305316effcffb56c",
+    "url": "/static/css/main.23d361a4.chunk.css"
   },
   {
     "revision": "948cf0137cf72ca07649",
     "url": "/static/js/2.bc195a8e.chunk.js"
   },
   {
-    "revision": "c7be78168e84718f6bc9",
-    "url": "/static/js/main.23fd9d46.chunk.js"
+    "revision": "2f06305316effcffb56c",
+    "url": "/static/js/main.4072542e.chunk.js"
   },
   {
     "revision": "867559b179ea8c7af62a",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/LI-Logo.c24cde28.png"
   },
   {
-    "revision": "a9562a69e4d557dfac20cfa0d0c84f9a",
-    "url": "/static/media/Tr-8_sample_snare.a9562a69.mp3"
+    "revision": "0c3148adcd8f4064b0224d0cae90b05d",
+    "url": "/static/media/Tr-8_sample_snare.0c3148ad.mp3"
   },
   {
     "revision": "634534078a22c9a53ca67faa88e51c36",
