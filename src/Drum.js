@@ -8,9 +8,10 @@ import Sound from 'react-sound'
 
 const Drum=() => {
   const audio = new Audio(snare)
-  const handleClick = (props) => (
+  const handleClick = (props) => {
+    audio.currentTime = 0
     audio.play()
-  )
+  }
 
   return (
     <div className="Home">
