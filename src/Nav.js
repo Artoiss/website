@@ -1,7 +1,6 @@
 import React from 'react';
 
-import {BrowserRouter as Router, Route, Link,
-  Redirect, withRouter} from 'react-router-dom'
+import {BrowserRouter as Router, Route, Link} from 'react-router-dom'
 
 
   export default class Nav extends React.Component {
@@ -11,7 +10,7 @@ import {BrowserRouter as Router, Route, Link,
           <div className="navbar-brand">
             <Link to="/" className="navbar-brand">
               <p>
-                <img src={require("./dogs/jouluhoppu.png")}/>  Hoppu Development
+                <img src={require("./dogs/jouluhoppu.png")} alt=""/>  Hoppu Development
               </p>
             </Link>
 

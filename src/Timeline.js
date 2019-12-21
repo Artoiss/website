@@ -4,7 +4,7 @@ import github from './icon/GitHub-Mark-Light-32px.png'
 import linkedin from './icon/LI-Logo.png'
 import so from './icon/so-icon.svg'
 import { Timeline, TimelineItem }  from 'vertical-timeline-component-for-react';
-import hoppu from './dogs/hoppu.jpg';
+
 
 const Timel=() => {
   return (
@@ -82,13 +82,13 @@ dateInnerStyle={{ background: '#76bb7f' }}
       </body>
       <footer className="Dog-footer">
       <a href="https://github.com/Artoiss/website" >
-        <img className="Dog-footerGitIcon" src={github} />
+        <img className="Dog-footerGitIcon" src={github} alt="logo"/>
       </a>
       <a href="https://www.linkedin.com/in/arttu--heikura/" >
-        <img className="Dog-footerLiIcon" src={linkedin} />
+        <img className="Dog-footerLiIcon" src={linkedin} alt="logo"/>
       </a>
       <a href="https://stackoverflow.com/users/11823822/artoiss" >
-        <img className="Dog-footerGitIcon" src={so} />
+        <img className="Dog-footerGitIcon" src={so} alt="logo"/>
       </a>
       </footer>
   </div>

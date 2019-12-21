@@ -8,18 +8,18 @@ const Home=() => {
     <div className="Home">
       <header className="Home-header">
       <p> Hoppu Development under maintenance. </p>
-        <img src={require("./dogs/jouluhoppu.png")} class="rotate2" width="100" height="120" />
-        <img src={require("./dogs/hubert2joulu.png")} class="rotate" width="100" height="120" />
+        <img src={require("./dogs/jouluhoppu.png")} className="rotate2" width="100" height="120" alt="" />
+        <img src={require("./dogs/hubert2joulu.png")} className="rotate" width="100" height="120" alt=""/>
       </header>
       <footer className="Home-footer">
       <a href="https://github.com/Artoiss/website" >
-        <img className="Home-footerGitIcon" src={github} />
+        <img className="Home-footerGitIcon" src={github} alt=""/>
       </a>
       <a href="https://www.linkedin.com/in/arttu--heikura/" >
-        <img className="Home-footerLiIcon" src={linkedin} />
+        <img className="Home-footerLiIcon" src={linkedin} alt=""/>
       </a>
       <a href="https://stackoverflow.com/users/11823822/artoiss" >
-        <img className="Dog-footerGitIcon" src={so} />
+        <img className="Dog-footerGitIcon" src={so} alt=""/>
       </a>
       </footer>
   </div>

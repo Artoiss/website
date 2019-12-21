@@ -4,10 +4,7 @@ import './index.css';
 import './Dog.css'
 import './Home.css'
 import App from './App';
-import Dog from './Dog'
-import Home from './Home'
 import 'bootstrap/dist/css/bootstrap.css';
-import { Button, Navbar } from 'react-bootstrap';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));

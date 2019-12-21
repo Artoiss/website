@@ -1,9 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router, Route, Link,
-  Redirect, withRouter} from 'react-router-dom'
-import hoppu from './dogs/hoppu.jpg';
-
-import hubert from './dogs/hubert.jpg';
+import {BrowserRouter as Router, Route} from 'react-router-dom'
 import Dog from './Dog'
 import Home from './Home'
 import './App.css';
@@ -14,7 +10,6 @@ import Drum from './Drum'
 import { HashRouter } from "react-router-dom";
 
 const App=() => {
-  const padding = { padding: 6}
   return (
     <div>
      <HashRouter>

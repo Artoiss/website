@@ -1,7 +1,6 @@
 import React from 'react';
 import { useState } from 'react'
-import {BrowserRouter as Router, Route, Link,
-  Redirect, withRouter} from 'react-router-dom'
+import {BrowserRouter as Router, Route, Link} from 'react-router-dom'
 import hoppu from './dogs/hoppu.jpg';
 import hubert from './dogs/hubert.jpg';
 import github from './icon/GitHub-Mark-Light-32px.png'
@@ -29,13 +28,13 @@ const Dog=() => {
       <footer className="Dog-footer">
 
       <a href="https://github.com/Artoiss/website" >
-        <img className="Dog-footerGitIcon" src={github} />
+        <img className="Dog-footerGitIcon" src={github} alt="logo"/>
       </a>
       <a href="https://www.linkedin.com/in/arttu--heikura/" >
-        <img className="Dog-footerLiIcon" src={linkedin} />
+        <img className="Dog-footerLiIcon" src={linkedin} alt="logo"/>
       </a>
       <a href="https://stackoverflow.com/users/11823822/artoiss" >
-        <img className="Dog-footerGitIcon" src={so} />
+        <img className="Dog-footerGitIcon" src={so} alt="logo"/>
       </a>
       </footer>
     </div>
