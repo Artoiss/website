@@ -1,3 +1,4 @@
+
 .Dog {
   text-align: center;
 }
@@ -19,6 +20,7 @@
 
 .Dog-body {
   background-color: #282c34;
+  background-image: url(./dogs/fog.jpg);
   min-height: 90vh;
   display: flex;
   flex-direction: column;

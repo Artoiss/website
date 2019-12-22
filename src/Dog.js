@@ -38,8 +38,6 @@ const Dog=() => {
       </a>
       </footer>
     </div>
-
-
   );
 }
 
