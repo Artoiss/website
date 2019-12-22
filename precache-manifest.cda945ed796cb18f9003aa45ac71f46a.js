@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40efd204b06a813efe95347c557f8b6d",
+    "revision": "9df2c44e48e900ab93dc63b68de1fcb4",
     "url": "/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.02d17e92.chunk.css"
   },
   {
-    "revision": "e58f359047b686fa9e9b",
-    "url": "/static/css/main.27c570eb.chunk.css"
+    "revision": "b0821d38a630b88909db",
+    "url": "/static/css/main.f67e8e1f.chunk.css"
   },
   {
     "revision": "ef27573606f8f405d85e",
     "url": "/static/js/2.9826e5ac.chunk.js"
   },
   {
-    "revision": "e58f359047b686fa9e9b",
-    "url": "/static/js/main.915c7ca0.chunk.js"
+    "revision": "b0821d38a630b88909db",
+    "url": "/static/js/main.a2465336.chunk.js"
   },
   {
     "revision": "867559b179ea8c7af62a",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0c3148adcd8f4064b0224d0cae90b05d",
     "url": "/static/media/Tr-8_sample_snare.0c3148ad.mp3"
-  },
-  {
-    "revision": "017d843008249f90279b97fda754f5f5",
-    "url": "/static/media/fog.017d8430.jpg"
   },
   {
     "revision": "634534078a22c9a53ca67faa88e51c36",
