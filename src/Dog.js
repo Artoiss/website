@@ -19,7 +19,7 @@ const Dog=() => {
   return (
     <div className="Dog">
       <body className="Dog-body">
-        <p>
+        <p className="p1">
         Click button to change dog.
         </p>
         <button type="button" onClick= {() => handle(selected)}>Dog button</button>
