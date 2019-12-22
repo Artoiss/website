@@ -8,7 +8,7 @@
 }
 
 .p1 {
-  color:#3d3d29;
+  color: white;
 }
 
 .Dog-header {
@@ -24,14 +24,14 @@
 
 .Dog-body {
   background-color: #282c34;
-  background-image: url(./dogs/fog.jpg);
+  background-image: url(./dogs/pine.jpg);
   min-height: 90vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: #3d3d29;
+  color: white;
   font-weight: bold;
 }
 
