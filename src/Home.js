@@ -8,8 +8,8 @@ const Home=() => {
     <div className="Home">
       <header className="Home-header">
       <p> Hoppu Development under maintenance. </p>
-        <img src={require("./dogs/jouluhoppu.png")} className="rotate2" width="100" height="120" alt="" />
-        <img src={require("./dogs/hubert2joulu.png")} className="rotate" width="100" height="120" alt=""/>
+        <img src={require("./dogs/hoppu2.png")} className="rotate2" width="100" height="120" alt="" />
+        <img src={require("./dogs/hubert2.png")} className="rotate" width="100" height="120" alt=""/>
       </header>
       <footer className="Home-footer">
       <a href="https://github.com/Artoiss/website" >

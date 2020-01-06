@@ -10,7 +10,7 @@ import {BrowserRouter as Router, Route, Link} from 'react-router-dom'
           <div className="navbar-brand">
             <Link to="/" className="navbar-brand">
               <p>
-                <img src={require("./dogs/jouluhoppu.png")} alt=""/>  Hoppu Development
+                <img src={require("./dogs/hoppu2.png")} alt=""/>  Hoppu Development
               </p>
             </Link>
 
