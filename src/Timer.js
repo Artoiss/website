@@ -13,7 +13,7 @@ const Home=() => {
         </p>
       </header>
       <body className="Dog-body">
-        <DateCountdown dateTo='2020-03-31 00:00:00 GMT+0200'/>
+        <DateCountdown dateTo='2020-04-01 00:00:00 GMT+0200'/>
       </body>
       <footer className="Home-footer">
       <a href="https://github.com/Artoiss/website">
