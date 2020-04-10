@@ -18,7 +18,6 @@ const App=() => {
       <Nav />
         <Route exact path="/" render={() => <Home />} />
         <Route path="/dog" render={() => <Dog />} />
-        <Route path="/timel" render={() => <Timel/>} />
         <Route path="/drum" render={() => <Drum/>} />
       </div>
 
