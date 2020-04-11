@@ -5,6 +5,7 @@ import so from './icon/so-icon.svg'
 import DateCountdown from 'react-date-countdown-timer';
 
 const Covid=() => {
+
   return (
     <div className="covid_class">
       <header className="Dog-header">
@@ -13,7 +14,7 @@ const Covid=() => {
         </p>
       </header>
       <body className="Dog-body">
-        Tähän jutut
+        asd
       </body>
       <footer className="Home-footer">
       <a href="https://github.com/Artoiss/website">
