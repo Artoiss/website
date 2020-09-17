@@ -23,6 +23,9 @@ import {BrowserRouter as Router, Route, Link} from 'react-router-dom'
                   <Link className="nav-link" to="/dog">Dog</Link>
                 </li>
                 <li className="nav-item active">
+                  <Link className="nav-link" to="/timer">Army timer</Link>
+                </li>
+                <li className="nav-item active">
                   <Link className="nav-link" to="/drum">Drum machine</Link>
                 </li>
               </ul>

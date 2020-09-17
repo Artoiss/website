@@ -20,7 +20,7 @@ const App=() => {
         <Route exact path="/" render={() => <Home />} />
         <Route path="/dog" render={() => <Dog />} />
         <Route path="/drum" render={() => <Drum/>} />
-        <Route path="/covid" render={() => <Covid/>} />
+        <Route path="/timer" render={() => <Timer/>} />
       </div>
 
      </HashRouter>

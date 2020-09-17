@@ -44,9 +44,11 @@
 
 .rotate {
   animation: rotation 5s infinite linear;
+  image-rendering: pixelated
 }
 .rotate2 {
   animation: rotation2 5s infinite linear;
+  image-rendering: pixelated
 }
 
 @keyframes rotation {
