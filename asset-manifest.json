@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.70c26f6b.chunk.css",
-    "main.js": "/static/js/main.8d724cf0.chunk.js",
-    "main.js.map": "/static/js/main.8d724cf0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6a03bc6f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6a03bc6f.js.map",
-    "static/css/2.3012c9cb.chunk.css": "/static/css/2.3012c9cb.chunk.css",
-    "static/js/2.4f786095.chunk.js": "/static/js/2.4f786095.chunk.js",
-    "static/js/2.4f786095.chunk.js.map": "/static/js/2.4f786095.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f4e647cc7b184f6b79ef716e47a45b61.js": "/precache-manifest.f4e647cc7b184f6b79ef716e47a45b61.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.3012c9cb.chunk.css.map": "/static/css/2.3012c9cb.chunk.css.map",
-    "static/css/main.70c26f6b.chunk.css.map": "/static/css/main.70c26f6b.chunk.css.map",
-    "static/media/LI-Logo.png": "/static/media/LI-Logo.c24cde28.png",
-    "static/media/Tr-8_sample_snare.mp3": "/static/media/Tr-8_sample_snare.0c3148ad.mp3",
-    "static/media/hoppu.jpg": "/static/media/hoppu.63453407.jpg",
-    "static/media/hubert.jpg": "/static/media/hubert.cb919a7a.jpg",
-    "static/media/so-icon.svg": "/static/media/so-icon.92d70dec.svg"
+    "main.css": "/website/static/css/main.70c26f6b.chunk.css",
+    "main.js": "/website/static/js/main.7df3e9fa.chunk.js",
+    "main.js.map": "/website/static/js/main.7df3e9fa.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.830a1e2f.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.830a1e2f.js.map",
+    "static/css/2.3012c9cb.chunk.css": "/website/static/css/2.3012c9cb.chunk.css",
+    "static/js/2.4f786095.chunk.js": "/website/static/js/2.4f786095.chunk.js",
+    "static/js/2.4f786095.chunk.js.map": "/website/static/js/2.4f786095.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.14893cfb4fa74de2f1d9e6103c88262f.js": "/website/precache-manifest.14893cfb4fa74de2f1d9e6103c88262f.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/2.3012c9cb.chunk.css.map": "/website/static/css/2.3012c9cb.chunk.css.map",
+    "static/css/main.70c26f6b.chunk.css.map": "/website/static/css/main.70c26f6b.chunk.css.map",
+    "static/media/LI-Logo.png": "/website/static/media/LI-Logo.c24cde28.png",
+    "static/media/Tr-8_sample_snare.mp3": "/website/static/media/Tr-8_sample_snare.0c3148ad.mp3",
+    "static/media/hoppu.jpg": "/website/static/media/hoppu.63453407.jpg",
+    "static/media/hubert.jpg": "/website/static/media/hubert.cb919a7a.jpg",
+    "static/media/so-icon.svg": "/website/static/media/so-icon.92d70dec.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a03bc6f.js",
+    "static/js/runtime-main.830a1e2f.js",
     "static/css/2.3012c9cb.chunk.css",
     "static/js/2.4f786095.chunk.js",
     "static/css/main.70c26f6b.chunk.css",
-    "static/js/main.8d724cf0.chunk.js"
+    "static/js/main.7df3e9fa.chunk.js"
   ]
 }
