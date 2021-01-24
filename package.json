@@ -2,7 +2,7 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hoppu.tk/",
+  "homepage": "https://artoiss.github.io/website/",
   "dependencies": {
     "@bokeh/bokehjs": "^2.2.0",
     "bokehjs": "^1.4.0",
